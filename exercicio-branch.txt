@@ -1,3 +1,11 @@
 Qual o seu nome?
+Arthur Mancio Sales
 
 O que é uma branch?
+Branches são como linhas do tempo alternativas. 
+Existe uma linha principal, que pode se separar em linhas paralelas 
+com pequenas variações que por sua vez também podem ser separadas e 
+assim por diante. 
+
+É possível mesclar essas linhas com algumas alterações nos eventos 
+(arquivos conflitantes) que fizeram essas linhas divergirem.
