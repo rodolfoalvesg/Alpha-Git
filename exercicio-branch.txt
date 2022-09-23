@@ -1,3 +1,10 @@
 Qual o seu nome?
-
+Letônio
 O que é uma branch?
+É uma ramificação criada que não depende de outras
+branch, isso permite que a partir da branch principal
+sejam criadas outras branchs, por exemplo, para
+testar uma nova funcionalidade, e se tudo estiver
+okay é possível adicionar ao ramo principal, ou
+continuar mantendo de forma independente. é um elemento
+fundamental para se trabalhar em equipe.
