@@ -1,3 +1,5 @@
 Qual o seu nome?
+Thiago Silva Oitaven Duarte
 
 O que é uma branch?
+Uma Branch é uma copia do repositorio main na qual os pushs nao alteram os arquivos presentes na main.
