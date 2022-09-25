@@ -1,3 +1,13 @@
 Qual o seu nome?
 
+Pedro Mendes Teixeira de Carvalho
+
 O que é uma branch?
+
+Branch em português, significa ramo.
+Em concepção particular, são ramificações de um repositório,
+que permite atualizações sem comprometer o código inicial.
+
+Cada vez que se faz um commit, é gerado uma hash, e para cada hash, ele salva uma "foto" daquele momento.
+O branch aponta o commit. O primeiro branch feito, chama-se master, e cada vez que é feito um commit, ele segue o mesmo.
+Com ele, é possivel alterar arquivos sem alterar a master.
