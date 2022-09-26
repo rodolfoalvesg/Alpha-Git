@@ -1,3 +1,4 @@
 Qual o seu nome?
-
+Carolina Liberato Marreiro
 O que é uma branch?
+Branch é uma ramificação do projeto principal, copiando-o para poder realizar as mudanças sem que isso altere o código principal. Após o termino da alteração é necessário que faça um merge mesclando a branch secudária na principal e assim alterando o código principal.
