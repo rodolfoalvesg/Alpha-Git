@@ -1,3 +1,5 @@
 Qual o seu nome?
+Felipe de Souza Fernandes
 
 O que é uma branch?
+Uma ramificação da estrutura principal do código para realização de alterações sem que o código principal seja alterado.
