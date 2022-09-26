@@ -1,3 +1,6 @@
 Qual o seu nome?
+Anderson Lima de Souza
 
 O que é uma branch?
+É uma ramificação do git, na qual permite alteraçoes sem que elas interfiram entre si. Funciona como uma especie de pastas
+separadas que contém todas as alteracoes realizadas de um projeto.
