@@ -1,3 +1,5 @@
 Qual o seu nome?
+Pedro Rubens Pereira de Paula
 
 O que é uma branch?
+branch é uma ramificação do projeto que serve para criar uma versão alternativa do projeto que esta sendo trabalhado
