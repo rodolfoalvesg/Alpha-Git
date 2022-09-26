@@ -1,3 +1,3 @@
-Qual o seu nome?
+Qual o seu nome? Daniel Da Silva Severiano
 
-O que é uma branch?
+O que é uma branch? Duplicação de projeto que permite alterar partes do código separadamente, sem afetar o código principal. Branch = Ramo
