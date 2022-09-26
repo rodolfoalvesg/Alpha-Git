@@ -1,3 +1,4 @@
 Qual o seu nome?
-
+Davi Severino de Araujo
 O que é uma branch?
+É uma ramificação no git, que possibilita maior controle nas alterações feitas nos arquivos do projeto.
