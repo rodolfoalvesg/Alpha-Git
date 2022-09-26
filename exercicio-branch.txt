@@ -1,3 +1,4 @@
 Qual o seu nome?
-
+Luã Ceneviva
 O que é uma branch?
+Uma bifurcação no versionamento dos arquivos, usada para criação e alteração de partes isoladas do codigo de forma simultanea
