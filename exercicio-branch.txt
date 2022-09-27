@@ -1,3 +1,7 @@
 Qual o seu nome?
+joão victor
 
 O que é uma branch?
+O comando git branch permite criar, listar, renomear e excluir ramificações. 
+Ele não permite alternar entre as ramificações ou reunir um histórico bifurcado de novo.
+Por esse motivo, o comando git branch é muito integrado com os comandos git checkout e git merge .
