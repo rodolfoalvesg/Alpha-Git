@@ -1,3 +1,5 @@
 Qual o seu nome?
+Ed Wilson dos Santos Júnior
 
 O que é uma branch?
+São subdivisões de um repositório com propósito de serem modificadas sem fazer alterações diretamente na base do arquivo.
